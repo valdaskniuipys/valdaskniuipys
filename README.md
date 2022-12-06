@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @valdaskniuipys
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I work as data analyst / scientist.
+- 🌱 I’m currently studying full stack development
 
 <!---
 valdaskniuipys/valdaskniuipys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
